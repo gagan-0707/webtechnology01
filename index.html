@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<title>WEB TEHNOLOGY</title>
+<link rel="stylesheet"  href="background.css">
+<style>
+body{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("file:///C:/Users/gagan/Downloads/2521834.webp") ;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+display: flow-root;
+background-attachment: fixed;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 800px;
+}
+h1{
+border: 2px solid whitesmoke;
+width: 30%;
+border-radius:20px;
+padding: 30px;
+display: flex;
+justify-content: center;
+color: whitesmoke;
+/*margin-bottom: 40%;*/
+color:rgba(0,225, 225, 5.0);
+text-transform: uppercase;
+
+}
+option{
+	object-position: center;
+}
+ol{
+	text-transform: uppercase;
+	display: flex;
+	color: whitesmoke;
+	font-size: 25px;
+	justify-content: center;
+	
+}
+marquee{
+	text-transform: uppercase;
+	font-size: 20px;
+	color: rgba(300, 200, 80,5.0);
+}
+</style>
+</head>
+<body>
+	<center>
+<h1>Web technology</h1>
+</center>
+<tr><marquee>This Syllabus is updated , as per the VTU guidelines</marquee></tr>
+<li>
+<br>
+<ol>Module 1 :&nbsp;&nbsp;<button onclick="window.location.href='https://vtu.ac.in/b-e-scheme-syllabus/#menu05';">->CLICK HERE TO GET THE LINK</button></ol>
+<br>
+<ol>Module 2:&nbsp;&nbsp;<button onclick="window.location.href='https://vtu.ac.in/b-e-scheme-syllabus/#menu05';">->CLICK HERE TO GET THE LINK</button></ol>
+<br>
+<ol>Module 3:&nbsp;&nbsp;<button onclick="window.location.href='https://vtu.ac.in/b-e-scheme-syllabus/#menu05';">->CLICK HERE TO GET THE LINK</button></ol>
+<br>
+<ol>Module 4:&nbsp;&nbsp;<button onclick="window.location.href='https://vtu.ac.in/b-e-scheme-syllabus/#menu05';">->CLICK HERE TO GET THE LINK</button></ol>
+<br>
+<ol>Module 5:&nbsp;&nbsp;<button onclick="window.location.href='https://vtu.ac.in/b-e-scheme-syllabus/#menu05';">->CLICK HERE TO GET THE LINK</button></ol>
+
+<br>
+</li>
+</body>
+</html>
