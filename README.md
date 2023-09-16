@@ -1,2 +1,2 @@
-# webtechnology01
+# Webtechnology01
 SYLLABUS
